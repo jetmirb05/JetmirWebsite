@@ -1,0 +1,97 @@
+{
+  "about": "Rreth nesh",
+  "home": "Ballina",
+  "depart": "Departamentet",
+  "News": "Lajme",
+  "English": "Anglisht",
+  "CntUs": "Na kontaktoni",
+  "cnst": "Konstruksion",
+  "cnsttext": "Ndërtojmë rrugë që i hapin udhë progresit",
+  "min": "Minierat",
+  "mintext": "Minimi i së ardhmes, fuqizimi i botës",
+  "rnw": "Energjia e Ripërtërishme",
+  "rnwtext": "Shfrytëzimi i fuqisë së natyrës për një të ardhme të qëndrueshme.",
+  "ItS": "Shkenca të aplikuara",
+  "ItSText": "Zgjidhje inovative që i shfrytëzojnë risitë më të fundit të shkencës dhe teknologjisë për t'i kaluar sfidat e të sotmës dhe të nesërmes.",
+  "homeAboutUsP0.1": "18 vjet",
+  "homeAboutUsP0.2": "përvojë",
+  "homeAboutUsP1": ",si një kompani me përvojë të gjerë në sektorin e ndërtimit, ne krenohemi shumë me koncesionin tonë të minierave ku nxjerrim dhe prodhojmë tre produkte me cilësi të lartë: gur gëlqeror, bazal dhe dolomit. Angazhimi ynë për përsosmëri pasqyrohet në analizën tonë vjetore të materialeve që nxjerrim, duke siguruar që ne të prodhojmë vazhdimisht produkte të nivelit të lartë.",
+  "homeAboutUsP2": "Guri gëlqeror ynë është një material i gjithanshëm që përdoret gjerësisht në industrinë e ndërtimit për qëndrueshmërinë dhe forcën e tij. Përdoret zakonisht në prodhimin e çimentos, betonit dhe asfaltit, si dhe në prodhimin e qelqit dhe çelikut.",
+  "ft1": "Na ndiqni",
+  "ft2": "Faqet tona",
+  "ft3": "Na kontaktoni",
+  "ft4": "Bulevardi Filipi i Dytë i Maqedonisë nr.3, Qendra Soravia, kati 11 1000, Shkup, Maqedonia e Veriut",
+  "ft5": "E drejta e autorit © 2023 Thor Industries të gjitha të drejtat e rezervuara.",
+
+  "stat1": "Numri i punëdhënësve",
+  "stat2": "Projektet e përfunduara",
+  "stat3": "Licencat",
+
+  "minDesc": "Minierat përfaqësojnë një lidhje të thellë midis njerëzimit dhe botës natyrore. Na kujton se ne nuk jemi të ndarë nga toka, por një pjesë e saj - një pjesë që duhet të kujdeset për të ruajtur dhe mbrojtur ekosistemet e brishta që na mbajnë. Dhe në këtë mënyrë, miniera mund të shihet jo vetëm si një burim pasurie dhe burimesh, por edhe si një katalizator për një marrëdhënie më të qëndrueshme dhe harmonike midis njerëzimit dhe planetit që ne e quajmë shtëpi.",
+  "cnstDesc": "Ka më shumë në bukurinë e ndërtimit sesa thjesht praktike. Procesi i shtrimit të kilometrave të trotuarit dhe asfaltit është gjithashtu një ushtrim në kreativitetin dhe dizajnin estetik. Nga kthesat e këndshme të një kalimi malor deri te modelet simetrike të një rrjeti rrugor urban, rrugët mund të jenë jashtëzakonisht të bukura në vetvete, duke u përzier pa probleme me mjedisin natyror ose duke krijuar një kontrast të guximshëm ndaj tij.",
+  "rnwDesc": "Energjia e rinovueshme është më shumë se thjesht një burim i dobisë praktike - ajo është gjithashtu një simbol i shpresës dhe mundësisë. Ndërsa shikojmë drejt një të ardhmeje që përkufizohet gjithnjë e më shumë nga kërcënimi i ndryshimeve klimatike, energjia e rinovueshme përfaqëson një rrugë drejt një bote më të qëndrueshme dhe të barabartë, në të cilën qeniet njerëzore mund të lulëzojnë në harmoni me mjedisin natyror. Në fund, energjia e rinovueshme është një burim i bukurisë dhe frymëzimit të thellë, një shembull i ndritshëm i asaj që njerëzimi mund të arrijë kur vendosim mendjen dhe zemrën tonë drejt ndërtimit të një bote më të mirë për veten dhe për brezat e ardhshëm.",
+  "ItSDesc": "Shkencat e aplikuara TI-së kanë të bëjnë me gjetjen e mënyrave elegante dhe efikase për të përdorur teknologjinë për të përmirësuar përvojën njerëzore. Qoftë zhvillimi i softuerit më të avancuar, dizajnimi i ndërfaqeve elegante dhe intuitive, ose krijimi i sistemeve të avancuara të inteligjencës artificiale, shkencat e aplikuara po i shtyjnë vazhdimisht kufijtë e asaj që është e mundur, duke hapur rrugë të reja produktiviteti, kreativiteti dhe inovacioni. Në thelbin e tyre, shkencat e aplikuara kanë të bëjnë me gjetjen e mënyrave elegante dhe efikase për të përdorur teknologjinë për të përmirësuar përvojën njerëzore. Qoftë zhvillimi i softuerit më të avancuar, dizajnimi i ndërfaqeve elegante dhe intuitive, ose krijimi i sistemeve të avancuara të inteligjencës artificiale, shkencat e aplikuara po i shtyjnë vazhdimisht kufijtë e asaj që është e mundur, duke hapur rrugë të reja produktiviteti, kreativiteti dhe inovacioni.",
+
+  "minDescLg": "Miniera e Bukojçanit është një kompani udhëheqëse e minierave e vendosur në Maqedoninë e Veriut, që operon që nga viti 2005. Miniera ndodhet 62 km në jugperëndim të Shkupit dhe është e pasur me gurë gëlqerorë, bazalt dhe dolomite me rezerva të vërtetuara prej 42,000,000 tonë metrikë. Miniera ka një marrëveshje koncesioni me Ministrinë e Ekonomisë deri në vitin 2026, e rinovueshme me kërkesë të investitorit për 20 vjet të tjera me të njëjtat kushte. Kompania ka një kapacitet aktual vjetor prej 500,000 tonë metrikë në vit dhe ka furnizuar lëndë të para për projekte të ndryshme industriale në rajon, duke përfshirë hekurudhat, autostradat dhe zhvillimin e infrastrukturës tjetër. Thor Industries ka një ekip me përvojë menaxheriale që ka ndërmarrë projekte të rëndësishme ndërtimore si projekti Izvor-Boshkov Most, i cili përfshinte shpimin dhe shpërthimin e 18.48 km rrugë malore që lidhin qytetet e Dibrës dhe Kërçovës. Ekipi menaxhues ishte përgjegjës për planifikimin, mbikëqyrjen, shëndetin dhe sigurinë e projektit, si dhe kryerjen e aktiviteteve të specializuara të ndërtimit. Kompania është përfshirë edhe në ndërtimin dhe menaxhimin e kompleksit Planet, një lagje ekskluzive luksoze që ka pamje nga kanioni i Matkës, që ndodhet vetëm 3 km larg qytetit të Shkupit. Ekipi drejtues ka kryer punime civile dhe infrastrukturore dhe ka menaxhuar ndërtimin e 57 vilave, një shkolle, spital privat, hotel, dhe objekte të tjera. Thor Industries është gjithashtu e përkushtuar ndaj zhvillimit të qëndrueshëm dhe ka ndërmarrë projekte të energjisë së rinovueshme, duke përfshirë zhvillimin, planifikimin dhe ndërtimin e një projekti PV 3.5 MW/p pranë minierës. Kompania është përfshirë edhe në zhvillimin, planifikimin dhe ndërtimin e hidrocentraleve Baçiska „2“ dhe „3“. Në përgjithësi, Thor Industries është një kompani e besueshme dhe me përvojë që ka furnizuar lëndë të para për projekte të ndryshme industriale në rajon. Kompania është e përkushtuar ndaj zhvillimit të qëndrueshëm dhe ka një histori të dëshmuar të menaxhimit të suksesshëm të projekteve të ndërtimit dhe projekteve të energjisë së rinovueshme.",
+  "cnstDescLg": "Ndërtimi është procesi i krijimit të infrastrukturës, ndërtesave dhe strukturave të tjera që janë thelbësore për funksionimin e shoqërisë moderne. Nga rrugët dhe urat tek ndërtesat dhe tunelet, ndërtimi luan një rol kritik në formësimin e mjedisit tonë të ndërtuar dhe lehtësimin e rritjes dhe zhvillimit ekonomik. Një nga përfitimet më të rëndësishme të ndërtimit është aftësia e tij për të krijuar vende të reja pune dhe për të stimuluar rritjen ekonomike. Industria e ndërtimit punëson miliona njerëz në mbarë botën, nga arkitektë dhe inxhinierë deri te marangozët dhe elektricistët. Duke investuar në projekte ndërtimi, qeveritë dhe investitorët privatë mund të krijojnë mundësi të reja pune, të nxisin ekonomitë lokale dhe të nxisin rritjen ekonomike. Për më tepër, ndërtimi është thelbësor për ndërtimin dhe mirëmbajtjen e infrastrukturës në të cilën ne mbështetemi çdo ditë. Rrugët dhe urat, për shembull, na lejojnë të udhëtojmë dhe transportojmë mallra shpejt dhe me efikasitet, ndërsa ndërtesat na ofrojnë strehim, hapësira pune dhe hapësira komunitare. Tunelet dhe strukturat e tjera nëntokësore, nga ana tjetër, na mundësojnë të aksesojmë burime të tilla si uji, energjia dhe mineralet që janë thelbësore për mënyrën tonë moderne të jetesës. Përveç përfitimeve ekonomike dhe infrastrukturore, ndërtimi është gjithashtu i rëndësishëm për aftësinë e tij për të krijuar hapësira që nxisin komunitetin, kreativitetin dhe inovacionin. Ndërtesat, parqet dhe hapësirat publike na ofrojnë vende për t'u mbledhur, socializuar dhe shkëmbyer ide, ndërsa monumentet kulturore dhe artistike na frymëzojnë dhe na kujtojnë njerëzimin tonë të përbashkët. Megjithatë, është e rëndësishme të theksohet se ndërtimi gjithashtu ka ndikime të rëndësishme mjedisore. Industria e ndërtimit është përgjegjëse për një pjesë të konsiderueshme të emetimeve globale të gazeve serrë, dhe projektet e ndërtimit mund të kenë ndikime të rëndësishme në ekosistemet lokale dhe burimet natyrore. Si i tillë, është thelbësore që ne të përpiqemi të minimizojmë ndikimet mjedisore të ndërtimit dhe të adoptojmë praktika më të qëndrueshme ndërtimi, të tilla si përdorimi i burimeve të rinovueshme të energjisë dhe reduktimi i mbetjeve.",
+  "rnwDescLg": "Energjia e rinovueshme është një lloj energjie që vjen nga burimet natyrore që plotësohen me kalimin e kohës, si energjia diellore, era, hidro dhe gjeotermale. Ndryshe nga lëndët djegëse fosile, të cilat janë të fundme dhe kontribuojnë në ndotjen e mjedisit, energjia e rinovueshme është e pastër, e qëndrueshme dhe ndihmon në zbutjen e ndikimeve të dëmshme të ndryshimeve klimatike. Një nga përfitimet më të rëndësishme të energjisë së rinovueshme është potenciali i saj për të reduktuar emetimet e gazeve serrë. Duke u mbështetur në burime të pastra dhe të qëndrueshme të energjisë, ne mund të reduktojmë ndjeshëm varësinë tonë nga lëndët djegëse fosile, të cilat janë nxitësit kryesorë të ndryshimeve klimatike. Kjo, nga ana tjetër, mund të na ndihmojë të shmangim ndikimet më të këqija të ngrohjes globale, duke përfshirë ngritjen e nivelit të detit, fatkeqësitë natyrore më të shpeshta dhe të rënda dhe efektet shkatërruese mbi biodiversitetin. Energjia e rinovueshme është gjithashtu e rëndësishme sepse mund të përmirësojë sigurinë dhe qëndrueshmërinë e energjisë. Ndryshe nga lëndët djegëse fosile, të cilat janë subjekt i paqëndrueshmërisë së çmimeve dhe tensioneve gjeopolitike, energjia e rinovueshme është shpesh me burime lokale dhe më pak të ndjeshme ndaj ndërprerjeve të zinxhirit të furnizimit. Kjo mund t'i ndihmojë vendet dhe komunitetet të bëhen më të vetë-mjaftueshme dhe më të afta t'i përballojnë krizat energjetike. Për më tepër, energjia e rinovueshme ka potencial për të nxitur rritjen ekonomike dhe krijimin e vendeve të punës. Ndërsa industria e energjisë së rinovueshme vazhdon të rritet dhe maturohet, ajo po krijon mundësi të reja për sipërmarrësit, punëtorët dhe investitorët. Në fakt, energjia e rinovueshme është tashmë një nga sektorët me rritje më të shpejtë të ekonomisë globale, me potencial për të krijuar miliona vende të reja pune në dekadat e ardhshme. Së fundi, energjia e rinovueshme është e rëndësishme sepse mund të ndihmojë në promovimin e drejtësisë sociale dhe barazisë mjedisore. Për shkak se shumë burime të energjisë së rinovueshme janë të decentralizuara dhe të shpërndara, ato mund të ndihmojnë në sjelljen e fuqisë dhe mundësive për komunitetet që historikisht kanë qenë të margjinalizuara ose të pashërbyer. Kjo mund të ndihmojë në krijimin e një shoqërie më gjithëpërfshirëse dhe të barabartë, ku të gjithë kanë akses në energji të pastër dhe të qëndrueshme. Si përfundim, energjia e rinovueshme është një pjesë kritike e përpjekjeve tona për të ndërtuar një botë më të qëndrueshme, të barabartë dhe më elastike. Duke përqafuar burimet e rinovueshme të energjisë dhe duke reduktuar varësinë tonë në lëndët djegëse fosile, ne mund të ndihmojmë në zbutjen e ndikimeve të dëmshme të ndryshimeve klimatike, të përmirësojmë sigurinë dhe qëndrueshmërinë e energjisë, të nxisëm rritjen ekonomike dhe krijimin e vendeve të punës dhe të promovojmë drejtësinë sociale dhe barazinë mjedisore. Ndërsa vazhdojmë të kalojmë drejt një të ardhmeje energjie më të qëndrueshme, është e rëndësishme që të punojmë së bashku për të përshpejtuar adoptimin e teknologjive të energjisë së rinovueshme dhe t'i bëjmë ato më të aksesueshme dhe të përballueshme për të gjithë.",
+
+  "wwa": "Kush Jemi Ne",
+  "ourStaff": "Stafi ynë",
+  "aboutPageFirst": "Si një kompani me përvojë të gjerë në sektorin e ndërtimit, ne krenohemi shumë me koncesionin tonë të minierave ku nxjerrim dhe prodhojmë tre produkte me cilësi të lartë: gur gëlqeror, bazal dhe dolomit. Angazhimi ynë për përsosmëri pasqyrohet në analizën tonë vjetore të materialeve që nxjerrim, duke siguruar që ne të prodhojmë vazhdimisht produkte të nivelit të lartë.",
+  "aboutPageSecond": "Guri gëlqeror ynë është një material i gjithanshëm që përdoret gjerësisht në industrinë e ndërtimit për qëndrueshmërinë dhe forcën e tij. Përdoret zakonisht në prodhimin e çimentos, betonit dhe asfaltit, si dhe në prodhimin e qelqit dhe çelikut.",
+  "aboutPageThird": "Bazal, nga ana tjetër, është një shkëmb vullkanik që vlerësohet shumë për vetitë e tij unike. Përdoret zakonisht si një material dekorativ në projektet e peizazhit dhe ndërtimit për shkak të pamjes dhe qëndrueshmërisë së tij mahnitëse.",
+  "aboutPageFourth": "Gjithashtu, një nga fuqitë tona të vlefshme që kemi si kompani është se posedojmë një leje për përdorimin e lëndëve eksplozive në industrinë minerare. Kjo na dallon nga kompanitë e tjera në industri, pasi ne kemi një ekip të specializuar që është i trajnuar dhe me përvojë në trajtimin e këtyre materialeve në mënyrë të sigurt dhe efikase.",
+  "aboutPageFifth": "Ekipi ynë i ekspertëve e kupton rëndësinë e sigurisë kur bëhet fjalë për trajtimin e materialeve eksplozive. Ne ndjekim protokollet dhe udhëzimet strikte për të siguruar që operacionet tona të kryhen në mënyrë të sigurt dhe të kontrolluar. Ekipi ynë është i pajisur me teknologjinë dhe pajisjet më të fundit për t'u siguruar që ne mund të përballojmë çdo situatë që mund të lindë.",
+  "aboutPageSixth": "Ne besojmë se ekspertiza jonë në trajtimin e materialeve shpërthyese është ajo që na bën të dallojmë nga konkurrenca. Ne jemi të përkushtuar t'u ofrojmë klientëve tanë nivelin më të lartë të shërbimit dhe cilësisë, dhe krenohemi me aftësinë tonë për të dhënë rezultate që tejkalojnë pritjet.",
+
+  "Services": "Shërbimet",
+  "More": "Më shumë",
+  "minSlogan": "Minimi i së ardhmes, fuqizimi i botës.",
+  "cnstSlogan": "Ndërtimi i rrugëve që i hapin rrugën përparimit.",
+  "rnwSlogan": "Përdorimi i fuqisë së natyrës për një të ardhme të qëndrueshme.",
+  "ItSSlogan": "Zgjidhje inovative për sfidat e së sotmes dhe së nesërmes.",
+  "Consulting": "Konsultime",
+  "ConsultingSlogan": "Tekst për Konsulencë",
+
+  "CTAtitle": "Kërko zgjidhje",
+  "CTAslogan": "Jepini idesë suaj një mundësi",
+  "CTAdescription": "Arritni sukses me zgjidhje inovative të përshtatura për nevojat tuaja unike të projektit.",
+
+  "OurStaff": "Stafi ynë",
+
+  "OurStaff_text1": "Stafi yne me inxhinierë të certifikuar, arkitektë dhe ekspertë të IT-së janë shtylla kryesore e suksesit të kompanisë sonë. Me licensat e tyre dhe me certifikatat ndërkombëtare, ne e kemi treguar veten si nje organizatë me reputacion e cila njihet për realizimin e projekteve në kohë dhe me cilësi të lartë. Ekspertiza e ekipit tonë shtrihet në departamente të ndryshme, duke përfshirë ndërtimin, zhvillimin e softuerit dhe projektimin e infrastrukturës.",
+  "OurStaff_text2": "Ne krenohemi me aftësinë e ekipit tonë për të trajtuar sfidat komplekse dhe për të ofruar zgjidhje inovative që tejkalojnë pritjet e klientëve tanë.",
+  "OurStaff_text3": "Angazhimi ynë për përsosmërinë dhe përmirësimin e vazhdueshëm na ka dhënë neve një bazë të gjerë te klientëve besnik si dhe një reputacion të një lideri në industrinë tonë.",
+  "OurStaff_text4": "Ne jemi të bindur se aftësitë dhe përvoja e ekipit tonë do të vazhdojnë të nxisin suksesin dhe rritjen tonë në të ardhmen.",
+
+  "ContactUsDesc": "Për më shumë informacion kontaktoni ekipin e Thor Industries. Ne e vlerësojmë komentin tuaj dhe do t'i përgjigjemi pyetjes suaj sa më shpejt që të jetë e mundur. Përndryshe na kontaktoni me telefon ose e-mail.",
+
+  "Contact_Name": "Emri",
+  "Contact_Email": "Email adresa",
+  "Contact_Phone": "Numri tel.",
+  "Contact_Subject": "Tema",
+  "Contact_Message": "Mesazhi",
+
+  "FollowUs": "Na ndiqni!",
+  "Location": "Lokacioni",
+  "LocationAddress": "Bulevardi ,,Filipi i dytë i Maqedonisë'' Numri 3, Qendra Soravia, Kati 11, 1000, Shkup, Maqedoni e Veriut",
+
+  "WorkDays": "E hënë - E premte / 09:00 deri 17:00",
+
+  "LearnMoreBtn": "Më shumë",
+  "TellUsMore": "Na tregoni si mund t'iu ndihmojmë",
+  "yourMSG": "Mesazhi juaj...",
+  "learnBtn": "Më shumë",
+
+  "EnglishLang": "Anglisht",
+  "MacedonianLang": "Maqedonisht",
+  "AlbanianLang": "Shqip",
+  "NewsHeader": "Lajme",
+
+  "BetterExp": "Per nje eksperiencë më të mirë ndërroni shfletuesin",
+  "noNews": "Nuk ka lajme të reja për momentin. Provoni me vonë",
+  "Cons": "Konsultime",
+  "ConsSlogan": "Konsultime me ekspertë per infrastrukturë, dizajn dhe mbikqyrje.",
+  "ConsDesc": "Ekspertët këshillues janë profesionistë shumë të aftë që ofrojnë këshilla dhe udhëzime të specializuara për bizneset, organizatat dhe individët që kanë nevojë për ekspertizën e tyre. Këta ekspertë zakonisht kanë njohuri dhe përvojë të gjerë në një industri ose fushë specifike, duke i lejuar ata të ofrojnë njohuri dhe zgjidhje të vlefshme për problemet komplekse. Ekspertët këshillues mund të punojnë në mënyrë të pavarur ose si pjesë e një firme konsulence dhe mund të ofrojnë një sërë shërbimesh, të tilla si planifikimi strategjik, menaxhimi i projektit, analiza financiare, marketing, etj. Pavarësisht nëse jeni duke kërkuar të përmirësoni performancën e organizatës suaj, të zgjeroni biznesin tuaj ose të zgjidhni një problem specifik, ekspertët këshillues mund të ofrojnë zgjidhje të përshtatura për t'ju ndihmuar të arrini qëllimet tuaja në mënyrë efikase dhe efektive."
+}

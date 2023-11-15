@@ -1,0 +1,53 @@
+html {
+    overflow-x: hidden !important;
+}
+body {
+    overflow-x: hidden !important;
+    position: relative;
+    background-color: #191A19;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .btn-primary {
+        @apply text-white text-lg  p-2 px-5 rounded-lg hover:bg-thorwhite hover:text-thorblack transition ease-in-out duration-500
+    }
+}
+
+@layer utilities {
+    .scrollbar::-webkit-scrollbar {
+      width: 18px;
+      height: 20px;
+      overflow-y: auto;
+      overflow-x: auto;
+      overflow: auto;
+    }
+  
+    .scrollbar::-webkit-scrollbar-track {
+      border-radius: 100vh;
+      background: #ffffff48;
+    }
+  
+    .scrollbar::-webkit-scrollbar-thumb {
+      background: #191A19;
+      border-radius: 100vh;
+      border: 2px solid #F3F3F3;
+    }
+  
+    .scrollbar::-webkit-scrollbar-thumb:hover {
+      background: #191A19;
+    }
+    @media screen and (max-width: 1024px){
+        ::-webkit-scrollbar {
+            display: none;
+        }
+      }
+  }
+
+:root {
+    font-family: 'Poppins', sans-serif;
+}

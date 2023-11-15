@@ -1,0 +1,5 @@
+Tailwind css
+hero icon
+headlessui
+
+dependencies installed
