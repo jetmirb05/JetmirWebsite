@@ -18,7 +18,7 @@ const Hero = () => {
   //used for translation
   const { t }=useTranslation()
   const slides = [
-    {url: miningimage, title: t('mac'), text: t('mintext'), color:'text-thormining', link:'/MiningDep'},
+    {url: miningimage, title: t('ipad'), text: t('mintext'), color:'text-thormining', link:'/MiningDep'},
     {url: constructionimage, title: t('ipad'), text: t('cnsttext'), color:'text-thorconstruction', link:'/ConstructionDep'},
     {url: renewableimage, title: t('iphone'), text: t('rnwtext'), color:'text-thorenergy', link:'/RenewableEnergyDep'},
     {url: ConsultingImage, title: t('airpods'), text: t('ConsSlogan'), color:'text-thorconsulting', link: '/ConsultingDep'},
