@@ -17,13 +17,7 @@ const About = () => {
   const { t } = useTranslation();
   return (
     <>
-      {/* pushing for vercel */}
-      <Navbar
-        NavbarColor="bg-thororange"
-        TextColor="text-thororange"
-        AfterColor="after:bg-thororange"
-        TextHoverColor="hover:text-thororange"
-      />
+
 
       <motion.div
         variants={ContainerAnimation}
