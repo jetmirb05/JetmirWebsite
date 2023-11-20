@@ -71,7 +71,7 @@ const About = () => {
                               before:border-b-[5px]
             "
               >
-                {t("about")}
+                {t("about us")}
               </motion.h2>
               <motion.p variants={textAnimation} className="text-[14px] pt-8">
                 <b className="text-[16px]">Thor Industriessss, </b>
