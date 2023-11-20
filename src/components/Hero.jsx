@@ -18,11 +18,11 @@ const Hero = () => {
   //used for translation
   const { t }=useTranslation()
   const slides = [
-    {url: miningimage, title: t('min'), text: t('mintext'), color:'text-thormining', link:'/MiningDep'},
-    {url: constructionimage, title: t('cnst'), text: t('cnsttext'), color:'text-thorconstruction', link:'/ConstructionDep'},
-    {url: renewableimage, title: t('rnw'), text: t('rnwtext'), color:'text-thorenergy', link:'/RenewableEnergyDep'},
-    {url: ConsultingImage, title: t('Cons'), text: t('ConsSlogan'), color:'text-thorconsulting', link: '/ConsultingDep'},
-    {url: itImage, title: t('ItS'), text: t('ItSText'), color:'text-thorit', link:'#'}
+    {url: miningimage, title: t('mac'), text: t('mintext'), color:'text-thormining', link:'/MiningDep'},
+    {url: constructionimage, title: t('ipad'), text: t('cnsttext'), color:'text-thorconstruction', link:'/ConstructionDep'},
+    {url: renewableimage, title: t('iphone'), text: t('rnwtext'), color:'text-thorenergy', link:'/RenewableEnergyDep'},
+    {url: ConsultingImage, title: t('airpods'), text: t('ConsSlogan'), color:'text-thorconsulting', link: '/ConsultingDep'},
+    {url: itImage, title: t('watch'), text: t('ItSText'), color:'text-thorit', link:'#'}
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
