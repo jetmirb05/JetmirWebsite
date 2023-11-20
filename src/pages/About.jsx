@@ -74,7 +74,7 @@ const About = () => {
                 {t("about")}
               </motion.h2>
               <motion.p variants={textAnimation} className="text-[14px] pt-8">
-                <b className="text-[16px]">Thor Industries, </b>
+                <b className="text-[16px]">Thor Industriessssss, </b>
                 {t("aboutPageFirst")}
               </motion.p>
 
