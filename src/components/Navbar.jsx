@@ -47,15 +47,15 @@ export const Navbar = ({
   const links = [
     { name: t("home"), link: "/" },
     { name: t("about"), link: "/About" },
-    { name: t("depart"), link: "/Departments" },
-    { name: t("News"), link: "/News" },
+    { name: t("product"), link: "/Departments" },
+   
   ];
   const Departmentlinks = [
-    { name: t('min'), link: "/MiningDep" },
-    { name: t('cnst'), link: "/ConstructionDep" },
-    { name: t('rnw'), link: "/RenewableEnergyDep" },
-    { name: t('Cons'), link: "/ConsultingDep" },
-    { name: t('ItS'), link: "/#" },
+    { name: t('mac'), link: "/MiningDep" },
+    { name: t('ipad'), link: "/ConstructionDep" },
+    { name: t('iphone'), link: "/RenewableEnergyDep" },
+    { name: t('airpods'), link: "/ConsultingDep" },
+    { name: t('watch'), link: "/#" },
     
   ];
 
@@ -218,7 +218,7 @@ export const Navbar = ({
             </Menu>
             <li className="px-4 py-2" onClick={()=>window.scrollTo(0,0)}>
               <NavLink 
-                to={links[3].link}
+                to="/"
                 className={({ isActive }) => {
                   return (
                     "text-xl font-semibold ease-in-out transition duration-500 " +
@@ -228,7 +228,7 @@ export const Navbar = ({
                   );
                 }}
               >
-                {links[3].name}
+                test
               </NavLink>
             </li>
             <Menu as="li">
@@ -433,21 +433,21 @@ export const Navbar = ({
               </Transition>
             </Menu>
 
-            <motion.li variants={itemAnimation} onClick={()=>window.scrollTo(0,0)}>
-              <NavLink
-                to={links[3].link}
+            {/* <li className="px-4 py-2" onClick={()=>window.scrollTo(0,0)}>
+              <NavLink 
+                to="/"
                 className={({ isActive }) => {
                   return (
-                    `relative block after:content-[''] after:absolute after:h-[3px] ${AfterColor}  after:w-0 after:rounded-lg after:left-0 after:bottom-[-10px] after:transition-all after:duration-500 text-lg ease-in-out transition duration-500 py-2 ` +
+                    "text-xl font-semibold ease-in-out transition duration-500 " +
                     (isActive
-                      ? ` after:w-full ${TextColor} `
-                      : `text-white ${TextHoverColor} after:hover:w-full `)
+                      ? " text-zinc-800 "
+                      : "hover:text-zinc-800 text-white")
                   );
                 }}
               >
-                {links[3].name}
+                test
               </NavLink>
-            </motion.li>
+            </li> */}
           </ul>
         </div>
         <div className=" relative flex justify-center items-center gap-4">
@@ -554,6 +554,7 @@ export const Navbar = ({
               title="Contact"
               className={` btn-primary ${NavbarColor} hidden lg:block btn-primary`}
               onClick={()=>window.scrollTo(0,0)}
+              style={{backgroundColor: 'black'}}
             >
               {t("CntUs")}
             </NavLink>
