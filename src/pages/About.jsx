@@ -81,7 +81,7 @@ const About = () => {
           variants={ContainerAnimation}
           initial="hidden"
           whileInView="show"
-          className="flex flex-col items-center gap-20 px:4 md:px-8 lg:px-12"
+          className="flex flex-col items-center gap-20 px:4 md:px-8 lg:px-12 bg-white"
         >
           <div className="flex flex-col md:flex-row gap-12 ">
             <motion.img
