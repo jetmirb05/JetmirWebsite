@@ -28,7 +28,7 @@ const AboutDep = ({myData}) => {
           variants={LtRtextAnimation}
           className="text-thorblack text-[12px] sm:text-xl mx-[2px] lg:mx-2 xl:text-2xl"
         >
-        <Link to="/Departments">{t('depart')} /</Link>
+        <Link to="/Departments">{t('product')} /</Link>
         </motion.h2>
         <motion.h2
           variants={LtRtextAnimation}
