@@ -46,7 +46,7 @@ function miningDep() {
   useEffect(()=>{
     if(window.location.href.includes('Dep'))
     setMyData({
-      "Name":'min',
+      "Name":'mac',
       "Image":ctaImage,
       "Text":'minDescLg',
       "Textsize":"text-[44px]",

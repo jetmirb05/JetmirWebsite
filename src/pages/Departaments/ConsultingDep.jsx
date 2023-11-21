@@ -44,7 +44,7 @@ function ConsultingDep() {
   useEffect(()=>{
     if(window.location.href.includes('Dep'))
     setMyData({
-      "Name":'Cons',
+      "Name":'airpods',
       "Image":ctaImage,
       "Text":'ConsDesc',
       "Textsize":"text-[44px]",

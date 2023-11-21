@@ -23,19 +23,19 @@ const Departaments = () => {
 
   const deps=[
     {
-      name:t('min'),
+      name:t('mac'),
       description:t('minDesc'),
       image:miningPic,
       toDep:"/MiningDep"
     },
     {
-      name:t('cnst'),
+      name:t('iphone'),
       description:t('cnstDesc'),
       image:constructionPic,
       toDep:"/ConstructionDep"
     },
     {
-      name:t('rnw'),
+      name:t('airpods'),
       description:t('rnwDesc'),
       image:renewablePic,
       toDep:"/RenewableEnergyDep"

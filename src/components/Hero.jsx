@@ -6,11 +6,11 @@ import { useSwipeable } from 'react-swipeable';
 import { motion } from 'framer-motion';
 import { useTranslation } from "react-i18next";
 import { ContainerAnimation,textAnimation} from "../utils/motion";
-import miningimage from '../assets/images/Mining-Foto/slider-2.webp';
-import renewableimage from '../assets/images/renewable-energy/pic3.webp';
-import constructionimage from '../assets/images/Construction-Foto/carousel.webp';
-import ConsultingImage from "../assets/images/consulting4.webp";
-import itImage from '../assets/images/ItS-Hero.webp'
+import miningimage from '../assets/images/Mining-Foto/mac.jpg';
+import renewableimage from '../assets/images/renewable-energy/iphone.png';
+import constructionimage from '../assets/images/Construction-Foto/ipad.jpg';
+import ConsultingImage from "../assets/images/airpods.png";
+import itImage from '../assets/images/watch.png'
 import { Link } from 'react-router-dom';
 
 

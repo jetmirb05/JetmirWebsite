@@ -348,7 +348,7 @@ export const Navbar = ({
                     `relative block after:content-[''] after:absolute after:h-[3px] ${AfterColor}  after:w-0 after:rounded-lg after:left-0 after:bottom-[-10px] after:transition-all after:duration-500 text-lg ease-in-out transition duration-500 py-2 ` +
                     (isActive
                       ? ` after:w-full ${TextColor} `
-                      : `text-white ${TextHoverColor} after:hover:w-full `)
+                      : `text-white `)
                   );
                 }}
               >
@@ -364,7 +364,7 @@ export const Navbar = ({
                     `relative block after:content-[''] after:absolute after:h-[3px] ${AfterColor}  after:w-0 after:rounded-lg after:left-0 after:bottom-[-10px] after:transition-all after:duration-500 text-lg ease-in-out transition duration-500 py-2 ` +
                     (isActive
                       ? ` after:w-full ${TextColor} `
-                      : `text-white ${TextHoverColor} after:hover:w-full `)
+                      : `text-white  `)
                   );
                 }}
               >
@@ -387,7 +387,7 @@ export const Navbar = ({
                         `relative block after:content-[''] after:absolute after:h-[3px] ${AfterColor}  after:w-0 after:rounded-lg after:left-0 after:bottom-[-10px] after:transition-all after:duration-500 text-lg ease-in-out transition duration-500 py-2 ` +
                         (isActive
                           ? ` after:w-full ${TextColor} `
-                          : `text-white ${TextHoverColor} after:hover:w-full `)
+                          : `text-white  `)
                       );
                     }}
                   >

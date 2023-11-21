@@ -46,7 +46,7 @@ function ConstructionDep() {
   useEffect(()=>{
     if(window.location.href.includes('Dep'))
     setMyData({
-      "Name":'cnst',
+      "Name":'iphone',
       "Image":ConstructionIMG,
       "Text":'cnstDescLg',
       "Textsize":"text-[44px]",

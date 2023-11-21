@@ -49,7 +49,7 @@ function RenewableEnergy() {
     useEffect(()=>{
       if(window.location.href.includes('Dep'))
       setMyData({
-        "Name":'rnw',
+        "Name":'ipad',
         "Image":EnergyIMG,
         "Text":'rnwDescLg',
         "Textsize":"text-[34px]",
