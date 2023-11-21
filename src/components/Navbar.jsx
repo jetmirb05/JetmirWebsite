@@ -51,7 +51,7 @@ export const Navbar = ({
    
   ];
   const Departmentlinks = [
-    { name: t('ipad'), link: "/MiningDep" },
+    { name: t('mac'), link: "/MiningDep" },
     { name: t('ipad'), link: "/ConstructionDep" },
     { name: t('iphone'), link: "/RenewableEnergyDep" },
     { name: t('airpods'), link: "/ConsultingDep" },
