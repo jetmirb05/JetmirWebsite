@@ -11,13 +11,13 @@ import Hero from '../components/Hero';
 const Home = () => {
   return (
     <div >
-      <Navbar NavbarColor="bg-thororange" TextColor="text-thororange" AfterColor="after:bg-thororange" TextHoverColor="hover:text-thororange" />
+      <Navbar NavbarColor="bg-white" TextColor="text-white" AfterColor="after:bg-white" TextHoverColor="hover:text-white" />
       <Hero />
       <MainAboutUs/>
       <Services/>
       {/* <News/> */}
       <Stats/>
-      <CTA bgImage={bgImage} bgColor="thororange"/>
+      <CTA bgImage={bgImage} bgColor="white"/>
 
     </div>
   )

@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "../components/Navbar";
-import aboutIMG from "../assets/images/aboutus.webp";
+import aboutIMG from "../assets/images/apple-company.jpg";
 
 import { motion } from "framer-motion";
 import {
@@ -19,10 +19,10 @@ const About = () => {
     <>
       {/* pushing for vercel */}
       <Navbar
-        NavbarColor="bg-thororange"
-        TextColor="text-thororange"
-        AfterColor="after:bg-thororange"
-        TextHoverColor="hover:text-thororange"
+        NavbarColor=""
+        TextColor="text-white"
+        AfterColor="after:bg-white"
+        TextHoverColor="hover:text-white"
       />
 
       <motion.div
@@ -46,7 +46,7 @@ const About = () => {
         </motion.h2>
         <motion.h2
           variants={LtRtextAnimation}
-          className={`text-lg sm:text-xl text-thororange`}
+          className={`text-lg sm:text-xl text-black`}
         >
           {t("wwa")}
         </motion.h2>
@@ -65,13 +65,13 @@ const About = () => {
           </motion.h1>
           <motion.h5
             variants={itemAnimation}
-            className="font-regular text-thororange"
+            className="font-regular text-black"
           >
             <Link to="/About">{t("wwa")}</Link>
           </motion.h5>
           <motion.h5
             variants={itemAnimation}
-            className="font-regular hover:text-thororange"
+            className="font-regular hover:text-black"
           >
             <Link to="/StaffPage">{t("ourStaff")}</Link>
           </motion.h5>
@@ -105,7 +105,7 @@ const About = () => {
                 {t("about")}
               </motion.h2>
               <motion.p variants={textAnimation} className="text-[14px] pt-8">
-                <b className="text-[16px]">Thor Industries, </b>
+                <b className="text-[16px]">At Apple Inc, </b>
                 {t("aboutPageFirst")}
               </motion.p>
 

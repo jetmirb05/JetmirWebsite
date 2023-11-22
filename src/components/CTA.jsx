@@ -25,20 +25,20 @@ export const CTA = ({ bgImage, bgColor }) => {
           <div className="flex flex-col w=[96%] h-[96%] m-[8%]">
             <motion.div
               variants={itemAnimation}
-              className="text-white text-base leading-9 font-medium "
+              className="text-black text-base leading-9 font-medium "
             >
               {t("CTAtitle")}
             </motion.div>
             <motion.div
               variants={itemAnimation}
-              className="text-white font-black text-[30px] sm:text-4xl  sm:mt-10 mt-[10px] sm:leading-[50px] leading-[30px]"
+              className="text-black font-black text-[30px] sm:text-4xl  sm:mt-10 mt-[10px] sm:leading-[50px] leading-[30px]"
             >
               {t("CTAslogan")}
             </motion.div>
 
             <motion.div
               variants={itemAnimation}
-              className="sm:mt-[50px] mt-[30px] text-white font-poppins text-sm leading-4 "
+              className="sm:mt-[50px] mt-[30px] text-black font-poppins text-sm leading-4 "
             >
               {t("CTAdescription")}
             </motion.div>
