@@ -17,6 +17,7 @@ const About = () => {
   const { t } = useTranslation();
   return (
     <>
+
       {/* pushing for vercel */}
       <Navbar
         NavbarColor=""
@@ -52,6 +53,7 @@ const About = () => {
         </motion.h2>
       </motion.div>
 
+
       
       <div className="flex flex-col lg:flex-row flex-1 min-h-auto w-full bg-thorblack text-white px-4 md:px-8 lg:px-12 gap-8 py-12">
         <motion.div
@@ -81,7 +83,7 @@ const About = () => {
           variants={ContainerAnimation}
           initial="hidden"
           whileInView="show"
-          className="flex flex-col items-center gap-20 px:4 md:px-8 lg:px-12 bg-red"
+          className="flex flex-col items-center gap-20 px:4 md:px-8 lg:px-12 bg-green"
         >
           <div className="flex flex-col md:flex-row gap-12 ">
             <motion.img
@@ -102,10 +104,12 @@ const About = () => {
                               before:border-b-[5px]
             "
               >
-                {t("about")}
+                {t("about us")}
               </motion.h2>
               <motion.p variants={textAnimation} className="text-[14px] pt-8">
+
                 <b className="text-[16px]">At Apple Inc, </b>
+
                 {t("aboutPageFirst")}
               </motion.p>
 
